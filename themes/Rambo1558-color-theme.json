@@ -1,8 +1,8 @@
 {
 	"name": "Rambo1558",
 	"colors": {
-		"editor.background": "#007d02",
-		"editor.foreground": "#375f4b",
+		"editor.background": "#375f4b",
+		"editor.foreground": "#007d02",
 		"activityBarBadge.background": "#222222",
 		"sideBarTitle.foreground": "#ffffff"
 	},
