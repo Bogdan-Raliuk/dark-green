@@ -1,8 +1,9 @@
 {
-  "name": "dark-green",
+  "name": "dark-and-green-my-first-theme",
   "displayName": "Dark&Green",
   "description": "Dark-Green",
   "version": "0.0.1",
+  "publisher": "Rambo1558",
   "engines": {
     "vscode": "^1.81.0"
   },
