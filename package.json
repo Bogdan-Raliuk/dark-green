@@ -2,7 +2,7 @@
   "name": "dark-and-green-my-first-theme",
   "displayName": "Dark&Green",
   "description": "Dark-Green",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "Rambo1558",
   "engines": {
     "vscode": "^1.81.0"
