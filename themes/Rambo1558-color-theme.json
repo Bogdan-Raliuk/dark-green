@@ -1,10 +1,11 @@
 {
 	"name": "Rambo1558",
 	"colors": {
-		"editor.background": "#375f4b",
+		"editor.background": "#364e42",
 		"editor.foreground": "#007d02",
 		"activityBarBadge.background": "#222222",
-		"sideBarTitle.foreground": "#ffffff"
+		"sideBarTitle.foreground": "#ffffff",
+		"contrastActiveBorder":"#444",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#474747"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -44,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff002b"
 			}
 		},
 		{
@@ -75,7 +76,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff4600"
+				"foreground": "#00ffdb"
 			}
 		},
 		{
